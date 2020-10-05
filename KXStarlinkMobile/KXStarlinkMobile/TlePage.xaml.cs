@@ -33,7 +33,7 @@ namespace KXStarlinkMobile
                     //return ParserTLE.ParseFile(@"starlink.txt");
 
 
-                } sadsadas
+                } //To dla emila
                 catch (WebException webEx)
                 {
                     if (webEx.Status == WebExceptionStatus.ConnectFailure)
